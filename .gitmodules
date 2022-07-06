@@ -2,3 +2,8 @@
 	path = TSC-BE/sale
 	url = git@github.com:TSC-BE/sale.git
 	branch = 15.0
+
+[submodule "TSC-BE/sale_crm"]
+	path = TSC-BE/sale_crm
+	url = git@github.com:TSC-BE/sale_crm.git
+	branch = 15.0
