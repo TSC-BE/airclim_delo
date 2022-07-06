@@ -12,3 +12,8 @@
 	path = TSC-BE/sale_project
 	url = git@github.com:TSC-BE/sale_project.git
 	branch = 15.0
+
+[submodule "TSC-BE/invoicing_steps"]
+	path = TSC-BE/invoicing_steps
+	url = git@github.com:TSC-BE/invoicing_steps.git
+	branch = 15.0
