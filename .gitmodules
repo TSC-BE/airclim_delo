@@ -1,0 +1,4 @@
+[submodule "TSC-BE/sale"]
+	path = TSC-BE/sale
+	url = git@github.com:TSC-BE/sale.git
+	branch = 15.0
