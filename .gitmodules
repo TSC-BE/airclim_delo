@@ -17,3 +17,8 @@
 	path = TSC-BE/invoicing_steps
 	url = git@github.com:TSC-BE/invoicing_steps.git
 	branch = 15.0
+  
+[submodule "TSC-BE/web_calendar_task"]
+	path = TSC-BE/web_calendar_task
+	url = git@github.com:TSC-BE/web_calendar_task.git
+	branch = 15.0
